@@ -1,3 +1,3 @@
-#Titulo Prueba del jogo
+# Titulo de prueba
 
 Readme del coso, todo base
